@@ -1,0 +1,112 @@
+@media only screen and (max-width:991px){
+	body{
+		
+	}
+	.header:before, .header:after{
+		display:none;
+	}
+	.nav-link {
+	padding: 6px;
+	text-align:center;
+	}
+	.item h2 {
+	font-size: 47px;
+	}
+	.fa.fa-angle-right, .fa.fa-angle-left {
+		font-size: 60px;
+	}
+	.single-package h3 {
+		font-size: 30px;
+	}
+	.single-package p{
+	font-size:16px;
+	}
+	.badge-secondary {
+	padding: 3px 14px 3px 7px;
+	font-size: 21px;
+	margin: 9% 3%;
+	}
+	.package_bottom h1 {
+		font-size: 44px;
+		margin-left: 8%;
+	}
+	.dollar {
+		font-size: 23px;
+		margin-top: 7%;
+	}
+	.single-package.single_top {
+	margin-top: -5.4em;
+	}
+	.single-package.standard {
+		margin-top: -7em;
+	}
+		.footer p {
+			font-size: 19px;;
+		}
+}
+
+@media only screen and (max-width:767px){
+
+	
+	.elegant_slider {
+	height: 450px;
+	}
+		.single-package.standard {
+		margin-top: 0em;
+		margin-bottom: 6.3em;
+		
+	}
+	.col h3 {
+		font-size: 13px;
+	}
+	.standard h3, .standard p{
+		background:#f5c779;
+	}
+
+	.bg-color h3, .bg-color P{
+		background:#0eff6f;
+	}
+	.badge-secondary {
+		margin: 5% 3%;
+	}
+	.dollar {
+		margin-top: 3%;
+	}
+	.float-right {
+		margin-top: -52px;
+	}
+
+}
+
+@media only screen and (max-width:478px)
+	{ 
+	body{
+		
+	}
+	.footer{
+		padding-bottom:20px;
+	}
+
+	.float-right {
+		float: none !important;
+		margin-top: 0px;
+	}
+    .single-package.single_top {
+	margin-bottom: 14px;
+    }
+    .elegant_slider h1 {
+	font-size: 40px;
+     }
+    .Creative_area h1, .talent_area h1, .tweet_area h1 {
+	font-size: 40px;
+    }
+}
+
+
+
+
+
+
+
+
+
